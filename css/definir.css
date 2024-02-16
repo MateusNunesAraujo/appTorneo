@@ -1,0 +1,14 @@
+#contraTodos,#equipos{
+display: none;
+}
+
+.desactivar{
+display: none;
+}
+
+.activado{
+display: flex !important;
+flex-direction: column;
+gap: 20px;
+}
+
